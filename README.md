@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Singh</h1>
 <p align="center">
-  <i>Final Year B.Tech (IT) Student | Full-Stack Web Developer | DSA Enthusiast</i>
+  <i>Final Year B.Tech (IT) Student | Software Developer | DSA Enthusiast</i>
 </p>
 
 ---
@@ -30,10 +30,10 @@
 ---
 
 ### 🏆 Coding Profiles
-- 🔗 [LeetCode](https://leetcode.com/u/jaisingh8854/) – 1400+ Problems Solved
-- 🔗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/jaisingh8854)
+- 🔗 [LeetCode](https://leetcode.com/u/jaisingh8854/) – 500+ Problems Solved
+- 🔗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/jaisingh8854) - 800+ Problems Solved
 - 🔗 [CodeChef](https://www.codechef.com/users/technobuddy) – 1500+ Rating
-- 🔗 [CodeForces](https://codeforces.com/profile/jai_singh)
+- 🔗 [CodeForces](https://codeforces.com/profile/jai_singh) - 1100+ Rating
 
 ---
 
