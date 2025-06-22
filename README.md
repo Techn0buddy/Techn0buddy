@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+I'm+Jai+Singh;Software+Developer;DSA+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Jai Singh</h1>
 <p align="center">
   <i>Final Year B.Tech (IT) Student | Software Developer | DSA Enthusiast</i>
@@ -41,3 +45,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-singh-73360a265/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://jaisingh-portfolio-website.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Email-jaisingh8854@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jaisingh8854@gmail.com)
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Techn0buddy&label=Profile+Views&color=0e75b6&style=flat" alt="Techn0buddy" />
+</p>
