@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+I'm+Jai+Singh;Full-Stack+Developer;DSA+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+I'm+Jai+Singh;Software+Developer;DSA+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#f75c7e">Jai Singh</span></h1>
@@ -45,8 +45,8 @@
 
 ### 🏆 Coding Profiles
 <p align="center">
-  <a href="https://leetcode.com/u/jaisingh8854/"><img src="https://img.shields.io/badge/LeetCode-1400%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/jaisingh8854"><img src="https://img.shields.io/badge/GFG-Ranked_6th_in_University-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/jaisingh8854/"><img src="https://img.shields.io/badge/LeetCode-500%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/jaisingh8854"><img src="https://img.shields.io/badge/GFG-800%2B_Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/technobuddy"><img src="https://img.shields.io/badge/CodeChef-1500%2B_Rating-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/jai_singh"><img src="https://img.shields.io/badge/Codeforces-1100%2B_Rating-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
